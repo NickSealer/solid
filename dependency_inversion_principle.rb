@@ -45,7 +45,7 @@ class APIService < Conexion
     puts value = "Obtener datos de APIService"
   end
   def set_datos
-    puts value = "Poner datos de DatabaseService"
+    puts value = "Poner datos de APIService"
   end
 end
 
